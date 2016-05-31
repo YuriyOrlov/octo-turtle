@@ -1,7 +1,7 @@
 # Different code, they are totally free, so if anybody like it, please use them.
 
 
-### List of foldedrs:
+### List of folders:
 
 1. Coursera_courses - examples of code from different MOOC from Coursera. Sometimes without any description.
 2. DifferentCode - folder with my own code. With description. 
