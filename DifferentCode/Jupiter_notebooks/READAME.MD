@@ -1,8 +1,7 @@
 # All notebooks here have been made on Machine Learning courses in Coursera.
 
 <ol>
-  <li> `touristic_liner` - in this exercise I have had to find best place for 
-  an advertisement banner of an international company, which is near their offices.
+  <li> `Gr_acception` - an example of logistic regression technique for binary classification assignment from Kaggle competition "This task requires participants to predict the outcome of grant applications for the University of Melbourne".
   <li>`VZ_2` - an example of vizualization technique from Kaggle competition "Prudential Life Insurance Assessment"
   <li>`XGBoost` - an example of Gradient Boosting method. 
   
