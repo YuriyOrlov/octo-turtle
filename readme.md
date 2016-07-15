@@ -11,3 +11,4 @@
   * `spider.py` - simple spider for scraping links. It uses BeutifulSoup and SQLite for link retrieving purposes.
   * `spider_scrapy.py` - an example of a spider with scrapy library usage.
   * `word_game.py` - this is scrabble game. (More info: https://en.wikipedia.org/wiki/Scrabble).
+  * `Jupyter_notebooks` - folder with an examples of Machine Learning methods. Their description is in **Russian** language. I believe, soon they will be translated in **English**.
